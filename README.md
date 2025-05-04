@@ -1,4 +1,4 @@
-#  Car Price Prediction App
+#  Car Price Prediction
 
 A simple machine learning web app built with **Streamlit** that predicts the price of a car based on user input features like brand, model, year, fuel type, and more.
 
