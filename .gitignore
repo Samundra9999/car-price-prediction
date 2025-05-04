@@ -6,6 +6,7 @@ __pycache__/
 *.env
 *.venv
 carenv/
+*.pkl
 .env/
 *.log
 .DS_Store
